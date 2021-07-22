@@ -1,0 +1,28 @@
+{
+  "id": "01FB7QQ1TXRCFXEHSJ1A36PR7N",
+  "created_at": "2021-07-22T18:30:17+00:00",
+  "updated_at": "2021-07-22T18:30:17+00:00",
+  "name": "Ergonomic Fresh Shirt",
+  "images": {
+    "thumb": null,
+    "full": "http://placeimg.com/640/480/abstract"
+  },
+  "status": "unpaid",
+  "customer_notes": "",
+  "admin_notes": "",
+  "variant": null,
+  "dimensions": [],
+  "quantity": {
+    "amount": 5,
+    "unit": "each"
+  },
+  "unit_price": {
+    "amount": 528,
+    "currency": "USD"
+  },
+  "subtotal": {
+    "amount": 2640,
+    "currency": "USD"
+  },
+  "discounts": []
+}
